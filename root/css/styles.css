@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+}
+
+h1  {color: #005677; 
+    background-color: #C4C4C4;
+    background-position: e;
+    background-position-x: ;
+    text-align: center;
+}
+
+h2  {color: #005677; background-color: #C4C4C4;
+}
+
+.profesión {text-align: 100px;}
+
+h3 {
+    color: #8f0404;
+    background-color: #005677 ; font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+p { font-size: 16px;
+    line-height: 12px;}
